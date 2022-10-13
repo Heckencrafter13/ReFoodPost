@@ -1,1 +1,20 @@
-
+{
+  "Recepies":[
+    {
+      "RecepieID": "0",
+      "RecepieName": "Indisches Butterhuhn",
+      "RecepieTags": "Indisch",
+      "UploadedBy": "TestUser123",
+      "Description": "Indisches Essen",
+      "ingredients": "Butter, Reiß, Soße"
+    },
+    {
+      "RecepieID": "1",
+      "RecepieName": "Schnitzel",
+      "RecepieTags": "Österreichisch",
+      "UploadedBy": "TestUser123",
+      "Description": "Österreischiches Essen",
+      "ingredients": "Pommes, Schweineschnitzel, Panade"
+    }
+  ]
+}
